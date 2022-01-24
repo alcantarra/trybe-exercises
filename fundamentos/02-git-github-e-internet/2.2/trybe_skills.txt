@@ -6,5 +6,5 @@
 - JavaScript
 - React
 - SQL
-- React
+- SoftSkills
 - Emprego
