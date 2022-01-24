@@ -1,10 +1,10 @@
-Internet
-Unix
-Bash
-HTML
-CSS
-JavaScript
-React
-SQL
+- Internet
+- Unix
+- Bash
+- HTML
+- CSS
+- JavaScript
 - React
-- emprego
+- SQL
+- React
+- Emprego
