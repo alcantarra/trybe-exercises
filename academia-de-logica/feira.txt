@@ -1,0 +1,7 @@
+1 - Fazer a lista;
+2 - Contar o dinheiro;
+3 - Andar ate a feira;
+4 - Escolher as frutas;
+5 - Pagar os comerciantes;
+6 - Voltar pra casa.
+
