@@ -10,33 +10,33 @@ O programa conta com mais de 1.500 horas de aulas online ao vivo, aborda introdu
 ​
 #### Bloco 1: Introdução - Unix & Bash
 ​
-- [X] 3: _Fundamentos do Desenvolvimento Web_
-- [X] 3: _Introdução - Unix & Shell_
-- [X] 3: _Unix & Bash- Part 1_
-- [X] 4: _Unix & Bash- Part 2_
+- :heavy_check_mark: 3: _Fundamentos do Desenvolvimento Web_
+- :heavy_check_mark: 3: _Introdução - Unix & Shell_
+- :heavy_check_mark: 3: _Unix & Bash- Part 1_
+- :heavy_check_mark: 4: _Unix & Bash- Part 2_
 ​
 #### Bloco 2: Git & GitHub e Internet
 ​
-- [X] 1: _Git & GitHub - O que é e para que serve?_
-- [X] 2: _Git & GitHub - Entendendo os comandos_
-- [X] 3: _Internet - Entendendo como ela funciona_
+- :heavy_check_mark: 1: _Git & GitHub - O que é e para que serve?_
+- :heavy_check_mark: 2: _Git & GitHub - Entendendo os comandos_
+- :heavy_check_mark: 3: _Internet - Entendendo como ela funciona_
 ​
 #### Bloco 3: Introdução à HTML & CSS
 ​
-- [X] 1: _Introdução - HTML & CSS_
-- [X] 1: _HTML & CSS - Estruturas de página_
-- [X] 2: _HTML & CSS - Primeiros passos em CSS_
-- [X] 3: _HTML & CSS - Seletores e posicionamento_
-- [X] 4: _HTML Semântico_
-- [X] 5: _[Projeto - Lessons Learned]()_
+- :heavy_check_mark: 1: _Introdução - HTML & CSS_
+- :heavy_check_mark: 1: _HTML & CSS - Estruturas de página_
+- :heavy_check_mark: 2: _HTML & CSS - Primeiros passos em CSS_
+- :heavy_check_mark: 3: _HTML & CSS - Seletores e posicionamento_
+- :heavy_check_mark: 4: _HTML Semântico_
+- :heavy_check_mark: 5: _[Projeto - Lessons Learned]()_
 ​
 #### Bloco 4: Introdução à JavaScript e Lógica de Programação
 ​
-- [X] 1: _Introdução - JavaScript_
-- [X] 1: _JavaScript - Primeiros passos_
-- [X] 2: _JavaScript - Array e loop For_
-- [X] 3: _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] 4: _JavaScript - Objetos e funções_
+- :heavy_check_mark: 1: _Introdução - JavaScript_
+- :heavy_check_mark: 1: _JavaScript - Primeiros passos_
+- :heavy_check_mark: 2: _JavaScript - Array e loop For_
+- :heavy_check_mark: 3: _JavaScript - Lógica de Programação e Algoritmos_
+- :heavy_check_mark: 4: _JavaScript - Objetos e funções_
 - [ ] 5: _[Projeto - Playground Functions]()_
 ​
 #### Bloco 5: JavaScript: DOM, Eventos e Web Storage
