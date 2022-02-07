@@ -62,16 +62,16 @@
 //Crie um algoritmo que recebe a idade de Carolzita , Murilo e Baêta e imprime quem é a pessoa mais nova no formato:
 // "Pessoa" é a mais nova.
 
-let carolzita = 22;
-let murilo = 33;
-let baeta = 20;
+// let carolzita = 22;
+// let murilo = 33;
+// let baeta = 20;
 
-if (carolzita < murilo && carolzita < baeta) {
-  console.log('Carolzita é x mais nove');
-}
-else if (murilo < carolzita && murilo < baeta) {
-  console.log('Murilo é x mais nove');
-}
-else {
-  console.log('Baêta é x mais nove');
-}
+// if (carolzita < murilo && carolzita < baeta) {
+//   console.log('Carolzita é x mais nove');
+// }
+// else if (murilo < carolzita && murilo < baeta) {
+//   console.log('Murilo é x mais nove');
+// }
+// else {
+//   console.log('Baêta é x mais nove');
+// }
